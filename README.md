@@ -36,8 +36,9 @@
 ## 📸 Project Demo
 
 <video controls src="Demo.mp4" title="Code Critic Demo"></video>
+https://github.com/user-attachments/assets/707c8fc6-2f37-4a49-9ae5-e7f743a0b733
 
-## Environment Variables
+### Environment Variables
 
 Create a .env file in the server/ directory:
 
