@@ -35,8 +35,8 @@
 
 ## 📸 Project Demo
 
-<video controls src="Demo.mp4" title="Code Critic Demo"></video>
 
+https://github.com/user-attachments/assets/63d4d0f6-8519-4eb0-837a-0181cb158527
 
 ### Environment Variables
 
